@@ -1,0 +1,16 @@
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/latihanoverloadingmethod.csprojAssemblyReference.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/latihanoverloadingmethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/latihanoverloadingmethod.AssemblyInfoInputs.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/latihanoverloadingmethod.AssemblyInfo.cs
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/latihanoverloadingmethod.csproj.CoreCompileInputs.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/bin/Debug/net5.0/latihanoverloadingmethod
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/bin/Debug/net5.0/latihanoverloadingmethod.deps.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/bin/Debug/net5.0/latihanoverloadingmethod.runtimeconfig.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/bin/Debug/net5.0/latihanoverloadingmethod.runtimeconfig.dev.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/bin/Debug/net5.0/latihanoverloadingmethod.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/bin/Debug/net5.0/ref/latihanoverloadingmethod.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/bin/Debug/net5.0/latihanoverloadingmethod.pdb
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/latihanoverloadingmethod.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/ref/latihanoverloadingmethod.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/latihanoverloadingmethod.pdb
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 5/Tugas/latihanoverloadingmethod/obj/Debug/net5.0/latihanoverloadingmethod.genruntimeconfig.cache
